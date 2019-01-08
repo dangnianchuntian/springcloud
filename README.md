@@ -13,6 +13,6 @@
     * 将consumer启动
     * 访问http://localhost:8080/consumer/getNum
     
-* 博客地址：[微服务（一）:只使用Feign不引入Eureka](https://blog.csdn.net/zhanghan18333611647/article/details/85638863 "With a Title")    
+* 博客地址：[微服务（一）:只使用Feign不引入Eureka](https://blog.csdn.net/zhanghan18333611647/article/details/85638863 "别忘记点赞哦")    
 
 # 2.SpringCloud其他组件---待完善
