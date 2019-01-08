@@ -12,5 +12,7 @@
     * 将provider进行启动
     * 将consumer启动
     * 访问http://localhost:8080/consumer/getNum
+    
+* 博客地址：https://blog.csdn.net/zhanghan18333611647/article/details/85638863    
 
 # 2.SpringCloud其他组件---待完善
